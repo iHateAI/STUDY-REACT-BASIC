@@ -1,5 +1,5 @@
 import World from "./World";
-import './Hello.css'
+import styles from './Hello.module.css'
 
 const Hello = () => {
   return (
@@ -14,7 +14,7 @@ const Hello = () => {
       >
         Hello
       </h1>
-      <div className="box"></div>
+      <div className={styles.box}></div>
       <World />
     </>
   );
