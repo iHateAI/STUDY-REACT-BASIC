@@ -48,6 +48,48 @@
       "eng": "pencil",
       "kor": "연필",
       "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "2",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 12
     }
   ]
 }
